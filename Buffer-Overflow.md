@@ -7,7 +7,6 @@
 - Stack-based buffer overflow exploitation
 - Memory layout analysis and register manipulation
 - Shellcode injection and NOP sled construction
-- GDB debugging and memory inspection
 - Vulnerability identification and secure code remediation
 
 ---
